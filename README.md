@@ -13,7 +13,7 @@
 <p align="center">Front-end</p>
 
 <p align="center">
-  <img alt="Front-end" src=".github/frontend.png" width="50%">
+  <img alt="Front-end" src=".github/frontend.png" width="50%" height="20%">
 </p>
 
 ## Como executar o projeto
