@@ -1,9 +1,9 @@
 
 <h3 align="center">
-  PRevisção do tempo
+  Previsção do tempo
 </h3>
 
-<p align="center">Desenvolvimento de uma Calculadora utilizando API Weather</p>
+<p align="center">Desenvolvimento de um sistema web de previsão do tempo utilizando API Weather</p>
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,12 +21,12 @@
 ### Clonar este repositório
 
 ```bash
-git clone git@github.com:lyoto07/Calculadora.git
+git clone git@github.com:lyoto07/weather.git
 ```
 
 ### Executar
 
-- `Abrir o arquivo .html
+- `Abrir o arquivo .html`
 
 ## Técnologias utilizadas
 
