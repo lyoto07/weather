@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Previsção do tempo
+  Previsão do tempo
 </h3>
 
 <p align="center">Desenvolvimento de um sistema web de previsão do tempo utilizando API Weather</p>
