@@ -13,7 +13,7 @@
 <p align="center">Front-end</p>
 
 <p align="center">
-  <img alt="Front-end" src=".github/frontend.png" width="90%">
+  <img alt="Front-end" src=".github/frontend.png" width="70%">
 </p>
 
 ## Como executar o projeto
@@ -27,6 +27,7 @@ git clone git@github.com:lyoto07/weather.git
 ### Executar
 
 - `Abrir o arquivo .html`
+- `Abrir como mobile para uma melhor visualização `
 
 ## Técnologias utilizadas
 
